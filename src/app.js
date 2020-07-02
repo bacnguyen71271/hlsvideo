@@ -3,7 +3,8 @@ const fs = require('fs');
 const hls = require('hls-server');
 
 
-const allowedOrigins = ['video.edusing123.com'];
+const allowedOrigins = ['video.edusing123.com',
+    'edusing123.com'];
 app.use(cors({
     origin: function(origin, callback){
         if(!origin) return callback(null, true);
