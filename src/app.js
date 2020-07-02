@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
     return res.status(200).sendFile(`${__dirname}/client.html`);
 });
 
-const server = app.listen(3000);
+const server = app.listen(3100);
 
 new hls(server, {
     provider: {
