@@ -1,6 +1,7 @@
 const app = require('express')();
 const fs = require('fs');
 const hls = require('hls-server');
+const cors = require('cors');
 
 
 const allowedOrigins = ['video.edusing123.com',
