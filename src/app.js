@@ -4,10 +4,10 @@ const hls = require('hls-server');
 const cors = require('cors');
 
 
-app.use(cors({
-    origin: 'http://edusing123.com',
-    optionsSuccessStatus: 200
-}));
+// app.use(cors({
+//     origin: 'http://edusing123.com',
+//     optionsSuccessStatus: 200
+// }));
 
 
 app.get('/', (req, res) => {
