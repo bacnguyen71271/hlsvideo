@@ -14,6 +14,10 @@ app.get('/', (req, res) => {
     return res.status(200).sendFile(`${__dirname}/client.html`);
 });
 
+app.get('enc.key', (req, res) => {
+    return res.status(200).sendFile(`${__dirname}/enc.key`);
+});
+
 const server = app.listen(3100);
 
 new hls(server, {
