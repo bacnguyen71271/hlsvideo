@@ -25,9 +25,9 @@ new hls(server, {
         exists: (req, cb) => {
             const ext = req.url.split('.').pop();
 
-            if (ext !== 'm3u8' && ext !== 'ts') {
-                return cb(null, true);
-            }
+            // if (ext !== 'm3u8' && ext !== 'ts') {
+            //     return cb(null, true);
+            // }
 
             fs.access(__dirname + req.url, fs.constants.F_OK, function (err) {
                 if (err) {
