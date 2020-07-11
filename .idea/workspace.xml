@@ -3,46 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8dfa5ab9-34f2-4ce2-aafc-df56028d330e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enc.keyinfo" beforeDir="false" afterPath="$PROJECT_DIR$/src/enc.keyinfo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index0.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index1.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index10.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index11.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index12.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index13.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index14.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index15.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index16.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index17.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index18.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index19.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index2.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index20.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index21.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index22.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index23.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index24.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index25.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index26.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index27.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index28.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index29.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index3.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index30.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index31.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index32.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index33.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index34.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index35.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index36.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index4.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index5.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index6.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index7.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index8.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/di-sieu-thi/index9.ts" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +16,48 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-399">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ffmpeg.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enc.keyinfo">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/videos/di-sieu-thi/index.m3u8">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -75,12 +71,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/videos/di-sieu-thi/index.m3u8" />
+        <option value="$PROJECT_DIR$/src/ffmpeg.js" />
         <option value="$PROJECT_DIR$/src/app.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1176" />
   </component>
@@ -89,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,20 +101,37 @@
               <item name="hlsvd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hlsvd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hlsvd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hlsvd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hlsvd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="di-sieu-thi" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../videoweb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/videos/di-sieu-thi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BacNguyen\Desktop\hlsvd\src\videos\di-sieu-thi" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,11 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1594057640862</updated>
       <workItem from="1594057642068" duration="1922000" />
+      <workItem from="1594400672833" duration="4856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1922000" />
+    <option name="totallyTimeSpent" value="6778000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -155,17 +173,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32981783" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32981783" />
@@ -173,10 +186,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32981783" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32981783" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,10 +208,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enc.keyinfo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/videos/di-sieu-thi/index.m3u8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ffmpeg.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/videos/di-sieu-thi/0">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
