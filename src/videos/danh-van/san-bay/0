@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="http://video.edusing123.com/enc.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://video.edusing123.com/enc.key"
 #EXTINF:10.000000,
 index0.ts
 #EXTINF:6.160000,
